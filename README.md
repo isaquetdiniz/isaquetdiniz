@@ -1,7 +1,7 @@
 ![batman](https://media.giphy.com/media/C7RCCFdaixA3u/source.gif "Batman says hello!")
 # Hello, there! I'm **Isaque**
 
->Looking for the **future** i can feel a chill in my belly, doubts about the changes to come. I feel a strong desire to **build** a better world **for people** and I believe that **technology** plays an important role in this
+> <img width="45" align="center" src="https://thumbs.gfycat.com/ElaborateLankyAntelopegroundsquirrel-small.gif" /> Looking for the **future** i can feel a chill in my belly, doubts about the changes to come. I feel a strong desire to **build** a better world **for people** and I believe that **technology** plays an important role in this
 
 ### About
 ___
@@ -9,9 +9,9 @@ ___
 - 📚 **Information Systems** undergraduate at CIn - UFPE.
 - 🔭 Currently using **React.js** and **Node** on projects
 - 🌱 Really getting into **Python**, **Mobile Development**, **AI**...
-- 👯 Looking to collaborate on any open-source project that, somehow, **elevates people**
+- <img width="45" align="center"  src="https://media3.giphy.com/media/Ur1ePKk5h82J2nKUmm/source.gif"/> Looking to collaborate on any open-source project that, somehow, **elevates people**
 - 💬 I love talking and learning new things with other people, **let's talk!**
-- ⚡ Available for freelance projects.
+- ⚡ Available for freelance projects. <img src='https://media.giphy.com/media/3o7qDPxorBbvpB1Pby/giphy.gif' width='50px'/>
 
 ### Connect with me
 ___
