@@ -8,7 +8,7 @@ ___
 - 💚 Developer [@CITi](https://citi.org.br/).
 - 📚 **Information Systems** undergraduate at CIn - UFPE.
 - 🔭 Currently using **React.js** and **Node** on projects <img width="30" align="center" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/source.gif"/> </li>
-- 🌱 Really getting into **Python**, **Mobile Development**, **AI**...
+- 🌱 Really getting into **Back-end**,**Python**, **Mobile Development**...
 - 👯 Looking to collaborate on any open-source project that, somehow, **elevates people** <img width="45" align="center"  src="https://media3.giphy.com/media/Ur1ePKk5h82J2nKUmm/source.gif"/>
 - 💬 I love talking and learning new things with other people, **let's talk!**
 - ⚡ Available for freelance projects.
