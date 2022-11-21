@@ -1,7 +1,7 @@
 <img align="center" width=950 src="https://media.giphy.com/media/C7RCCFdaixA3u/source.gif">
 <h1 align="center"> Hey, I'm Isaque👋</h1> <br>
 
-Since 2019 developing, delivering and maintaining projects to build better futures.
+Since 2020 developing, delivering and maintaining projects to build better futures.
 
 Acting directly in the construction, maintenance and improvement of Javascript, Typescript, Python and Go code, following the best development practices and patterns, automated testing, continuous integration, delivery, and using agile methodologies.
 
