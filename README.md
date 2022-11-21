@@ -1,20 +1,20 @@
-![batman](https://media.giphy.com/media/C7RCCFdaixA3u/source.gif "Batman says hello!")
-# Hello, there! I'm **Isaque**
+<img align="center" width=950 src="https://media.giphy.com/media/C7RCCFdaixA3u/source.gif">
+<h1 align="center"> Hey, I'm Isaque👋</h1> <br>
 
-> <img width="45" align="center" src="https://thumbs.gfycat.com/ElaborateLankyAntelopegroundsquirrel-small.gif" /> Looking for the **future** i can feel a chill in my belly, doubts about the changes to come. I feel a strong desire to **build** a better world **for people** and I believe that **technology** plays an important role in this
+Since 2019 developing, delivering and maintaining projects to build better futures.
 
-### About
-___
-- My [@site](https://www.isaquediniz.com.br)
-- 💚 Developer [@loomi](https://www.linkedin.com/company/loomi-digital/mycompany//).
-- 📚 **Information Systems** undergraduate at CIn - UFPE.
-- 🔭 Currently using **Node** on projects <img width="30" align="center" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/source.gif"/> </li>
-- 🌱 Really getting into **Back-end**,**Rust**, **Go**, **Docker**, **Kubernets**...
-- 👯 Looking to collaborate on any open-source project that, somehow, **elevates people** <img width="45" align="center"  src="https://media3.giphy.com/media/Ur1ePKk5h82J2nKUmm/source.gif"/>
-- 💬 I love talking and learning new things with other people, **let's talk!**
-- ⚡ Available for freelance projects.
+Acting directly in the construction, maintenance and improvement of Javascript, Typescript, Python and Go code, following the best development practices and patterns, automated testing, continuous integration, delivery, and using agile methodologies.
 
-### Connect with me
-___
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaquediniz/)](https://www.linkedin.com/in/isaquediniz/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:itd@cin.ufpe.com)](mailto:itd@cin.ufpe.com/)
+Configuring, maintaining staging, homologation and service production environments, monitoring and making process improvements with Kubernetes and using AWS and your cloud services.
+
+Leading people with the aim of boosting their growth, improving processes and standardizing day-to-day practices in the backend area with modern goal management tools like OKR.
+
+Chapter Leader and Backend Software Engineer at [Loomi](https://www.loomi.digital/).
+
+### Find me elsewhere <img width="45" align="center" src="https://media3.giphy.com/media/Ur1ePKk5h82J2nKUmm/source.gif">
+[Site](https://www.isaquediniz.com.br) <br>
+[Linkedin](https://www.linkedin.com/in/isaque-diniz-a9460119b/) <br>
+[Gmail](mailto:isaquetkz@gmail.com) <br>
+
+🇧🇷 Born in Cubatao, Brazil <br>
+🇧🇷 Living in Recife, Brazil <br>
